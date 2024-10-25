@@ -17,8 +17,8 @@ namespace Arac_Kullanimlari
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             
-            Form3 form3 = new Form3();
-            Application.Run(form3); 
+            Form4 form4 = new Form4();
+            Application.Run(form4); 
         }
     }
 }
