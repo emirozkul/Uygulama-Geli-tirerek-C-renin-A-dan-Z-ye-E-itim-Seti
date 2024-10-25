@@ -9,3 +9,4 @@ C:\Users\hero_\OneDrive\Masaüstü\C# Kursu A-Z\Arac_Kullanimlari\Arac_Kullaniml
 C:\Users\hero_\OneDrive\Masaüstü\C# Kursu A-Z\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.exe
 C:\Users\hero_\OneDrive\Masaüstü\C# Kursu A-Z\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.pdb
 C:\Users\hero_\OneDrive\Masaüstü\C# Kursu A-Z\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form2.resources
+C:\Users\hero_\OneDrive\Masaüstü\C# Kursu A-Z\Arac_Kullanimlari\Arac_Kullanimlari\obj\Debug\Arac_Kullanimlari.Form3.resources

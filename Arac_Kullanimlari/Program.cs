@@ -17,8 +17,8 @@ namespace Arac_Kullanimlari
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             
-            Form2 form2 = new Form2();
-            Application.Run(form2); // Form2 ana form olarak çalışır
+            Form3 form3 = new Form3();
+            Application.Run(form3); 
         }
     }
 }
