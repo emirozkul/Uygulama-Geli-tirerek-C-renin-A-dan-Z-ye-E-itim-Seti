@@ -1,6 +1,6 @@
 ﻿namespace Arac_Kullanimlari
 {
-    partial class Form2
+    partial class KisiKayitFormu
     {
         /// <summary>
         /// Required designer variable.

@@ -11,13 +11,13 @@ using System.Windows.Forms;
 
 namespace Arac_Kullanimlari
 {
-    public partial class Form4 : Form
+    public partial class onlineDersGirisPaneli : Form
     {
 
         private bool cancelFlag = false;
         private bool cancelFlag2 = false;
 
-        public Form4()
+        public onlineDersGirisPaneli()
         {
             InitializeComponent();
         }

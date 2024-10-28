@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Degiskenler
 {
-    public partial class Form1 : Form
+    public partial class KayitFormu : Form
     {
-        public Form1()
+        public KayitFormu()
         {
             InitializeComponent();
         }

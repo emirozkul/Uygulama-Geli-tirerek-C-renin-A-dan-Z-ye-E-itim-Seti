@@ -17,16 +17,16 @@ namespace Arac_Kullanimlari
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
 
-            Form1 form1 = new Form1();
+            KullaniciKayitFormu form1 = new KullaniciKayitFormu();
             form1.Show();
 
-            Form2 form2 = new Form2();
+            KisiKayitFormu form2 = new KisiKayitFormu();
             form2.Show();
 
-            Form3 form3 = new Form3();
+            resimliKayitFormu form3 = new resimliKayitFormu();
             form3.Show();
 
-            Form4 form4 = new Form4();
+            onlineDersGirisPaneli form4 = new onlineDersGirisPaneli();
             form4.Show();
 
             Form5 form5 = new Form5();

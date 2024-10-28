@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Arac_Kullanimlari
 {
-    public partial class Form2 : Form
+    public partial class KisiKayitFormu : Form
     {
-        public Form2()
+        public KisiKayitFormu()
         {
             InitializeComponent();
         }

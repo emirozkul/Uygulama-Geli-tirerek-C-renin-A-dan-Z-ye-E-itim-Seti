@@ -1,6 +1,6 @@
 ﻿namespace Arac_Kullanimlari
 {
-    partial class Form1
+    partial class KullaniciKayitFormu
     {
         /// <summary>
         /// Required designer variable.

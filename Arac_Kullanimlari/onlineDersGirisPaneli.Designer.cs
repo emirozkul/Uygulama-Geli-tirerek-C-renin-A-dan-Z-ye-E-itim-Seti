@@ -1,6 +1,6 @@
 ﻿namespace Arac_Kullanimlari
 {
-    partial class Form4
+    partial class onlineDersGirisPaneli
     {
         /// <summary>
         /// Required designer variable.
