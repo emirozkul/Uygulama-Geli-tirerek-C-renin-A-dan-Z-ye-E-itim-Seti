@@ -58,8 +58,17 @@
     <Compile Include="hesaplayici.Designer.cs">
       <DependentUpon>hesaplayici.cs</DependentUpon>
     </Compile>
+    <Compile Include="basitHesapMakinesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="basitHesapMakinesi.Designer.cs">
+      <DependentUpon>basitHesapMakinesi.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="basitHesapMakinesi.resx">
+      <DependentUpon>basitHesapMakinesi.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="hesaplayici.resx">
       <DependentUpon>hesaplayici.cs</DependentUpon>
     </EmbeddedResource>

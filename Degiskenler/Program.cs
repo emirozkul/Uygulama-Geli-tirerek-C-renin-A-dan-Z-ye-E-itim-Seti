@@ -16,7 +16,7 @@ namespace Degiskenler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new hesaplayici());
+            Application.Run(new basitHesapMakinesi());
         }
     }
 }
