@@ -16,7 +16,7 @@ namespace Degiskenler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new basitHesapMakinesi());
+            Application.Run(new sinema_bufe_satis_paneli());
         }
     }
 }

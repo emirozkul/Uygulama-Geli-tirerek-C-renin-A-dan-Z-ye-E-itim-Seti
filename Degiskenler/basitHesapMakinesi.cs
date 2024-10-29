@@ -54,7 +54,7 @@ namespace Degiskenler
 
         private void button5_Click(object sender, EventArgs e)
         {
-            label4.Text = sonuc.ToString();
+            label4.Text = sonuc.ToString("0.000");
             label4.Visible = true;
         }
     }
