@@ -1,6 +1,6 @@
 ﻿namespace _3_KararYapilari
 {
-    partial class Form1
+    partial class Ogrenci_Not_Hesaplama
     {
         /// <summary>
         /// Required designer variable.
@@ -28,10 +28,17 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
+            this.SuspendLayout();
+            // 
+            // Ogrenci_Not_Hesaplama
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
-            this.Text = "Form1";
+            this.Name = "Ogrenci_Not_Hesaplama";
+            this.Text = "Öğrenci Not Hesaplama";
+            this.ResumeLayout(false);
+
         }
 
         #endregion

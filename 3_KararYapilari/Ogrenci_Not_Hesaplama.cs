@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Karar_Yapilari
+namespace _3_KararYapilari
 {
-    public partial class Form1 : Form
+    public partial class Ogrenci_Not_Hesaplama : Form
     {
-        public Form1()
+        public Ogrenci_Not_Hesaplama()
         {
             InitializeComponent();
         }
