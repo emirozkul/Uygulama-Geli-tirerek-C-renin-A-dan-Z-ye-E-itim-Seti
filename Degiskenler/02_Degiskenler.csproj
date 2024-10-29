@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{8804F54D-C031-4804-8DB9-9FB3EE8E5B5C}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Degiskenler</RootNamespace>
-    <AssemblyName>Degiskenler</AssemblyName>
+    <RootNamespace>_2_Degiskenler</RootNamespace>
+    <AssemblyName>2_Degiskenler</AssemblyName>
     <TargetFrameworkVersion>v4.8.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -89,6 +89,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="sinema_bufe_satis_paneli.resx">
       <DependentUpon>sinema_bufe_satis_paneli.cs</DependentUpon>
