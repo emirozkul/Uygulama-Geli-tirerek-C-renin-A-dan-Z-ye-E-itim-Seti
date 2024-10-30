@@ -46,6 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Indirim_tutari_hesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Indirim_tutari_hesaplama.Designer.cs">
+      <DependentUpon>Indirim_tutari_hesaplama.cs</DependentUpon>
+    </Compile>
     <Compile Include="Ogrenci_Not_Hesaplama.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +60,9 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Indirim_tutari_hesaplama.resx">
+      <DependentUpon>Indirim_tutari_hesaplama.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Ogrenci_Not_Hesaplama.resx">
       <DependentUpon>Ogrenci_Not_Hesaplama.cs</DependentUpon>
     </EmbeddedResource>

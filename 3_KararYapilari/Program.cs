@@ -16,7 +16,7 @@ namespace _3_KararYapilari
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Ogrenci_Not_Hesaplama());
+            Application.Run(new Indirim_tutari_hesaplama());
         }
     }
 }
