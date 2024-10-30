@@ -16,7 +16,7 @@ namespace _3_KararYapilari
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Indirim_tutari_hesaplama());
+            Application.Run(new Secilen_operatore_gore_islem_yapma());
         }
     }
 }
