@@ -16,7 +16,19 @@ namespace _3_KararYapilari
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Secilen_operatore_gore_islem_yapma());
+
+            Ogrenci_Not_Hesaplama form1 = new Ogrenci_Not_Hesaplama();
+            form1.Show();
+
+            Indirim_tutari_hesaplama form2 = new Indirim_tutari_hesaplama();
+            form2.Show();
+
+            Secilen_operatore_gore_islem_yapma form3 = new Secilen_operatore_gore_islem_yapma();
+            form3.Show();
+
+            Bilgi_Yarismasi form4 = new Bilgi_Yarismasi();
+            Application.Run(new Bilgi_Yarismasi());
+            
         }
     }
 }

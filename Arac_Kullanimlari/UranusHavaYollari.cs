@@ -58,5 +58,11 @@ namespace Arac_Kullanimlari
             comboBox1.Text = label10.Text;
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Uygulama Kapatılmıştır");
+            this.Hide();
+        }
     }
 }

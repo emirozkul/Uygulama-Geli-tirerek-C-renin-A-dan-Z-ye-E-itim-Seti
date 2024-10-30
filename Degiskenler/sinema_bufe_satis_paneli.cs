@@ -27,6 +27,12 @@ namespace Degiskenler
 
         int misir, su, cay, bilet, toplam, kasa=0, siparisNumarasi = 1;
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("Uygulama Kapatılmıştır");
+            this.Hide();
+        }
+
         private void button3_Click(object sender, EventArgs e)
         {
             textBoxmisirAdet.Text = "";
@@ -108,6 +114,6 @@ namespace Degiskenler
             txtBBiletFiyatSet.Text = "";
 
             textBoxmisirAdet.Focus();
-        }
+        }       
     }
 }
