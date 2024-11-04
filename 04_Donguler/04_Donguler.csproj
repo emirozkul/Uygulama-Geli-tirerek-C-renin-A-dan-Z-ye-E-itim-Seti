@@ -46,6 +46,24 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Pasta_Surecleri.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Pasta_Surecleri.Designer.cs">
+      <DependentUpon>Pasta_Surecleri.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Progress_Bar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Progress_Bar.Designer.cs">
+      <DependentUpon>Progress_Bar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Timer_Ile_Digital_Saat.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Timer_Ile_Digital_Saat.Designer.cs">
+      <DependentUpon>Timer_Ile_Digital_Saat.cs</DependentUpon>
+    </Compile>
     <Compile Include="TrafikLambasi.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -54,6 +72,15 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Pasta_Surecleri.resx">
+      <DependentUpon>Pasta_Surecleri.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Progress_Bar.resx">
+      <DependentUpon>Progress_Bar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Timer_Ile_Digital_Saat.resx">
+      <DependentUpon>Timer_Ile_Digital_Saat.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="TrafikLambasi.resx">
       <DependentUpon>TrafikLambasi.cs</DependentUpon>
     </EmbeddedResource>

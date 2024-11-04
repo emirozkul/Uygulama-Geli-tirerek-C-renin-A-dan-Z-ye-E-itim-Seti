@@ -63,7 +63,7 @@ namespace _04_Donguler
                     kirmiziSayac = 10;
                     label1.Visible = true;
                 }
-            }           
+            }              
         }
     }
 }

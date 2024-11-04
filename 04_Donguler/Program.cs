@@ -16,7 +16,7 @@ namespace _04_Donguler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new TrafikLambasi());
+            Application.Run(new Pasta_Surecleri());
         }
     }
 }

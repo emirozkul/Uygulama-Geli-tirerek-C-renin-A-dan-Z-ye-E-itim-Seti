@@ -429,6 +429,7 @@
             this.fis.Name = "fis";
             this.fis.Size = new System.Drawing.Size(235, 349);
             this.fis.TabIndex = 0;
+            this.fis.SelectedIndexChanged += new System.EventHandler(this.fis_SelectedIndexChanged);
             // 
             // panel2
             // 
