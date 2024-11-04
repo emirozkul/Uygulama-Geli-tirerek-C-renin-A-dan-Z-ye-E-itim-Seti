@@ -16,7 +16,7 @@ namespace _05_Diziler
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Girilen_Sayilarla_İslem_Yapma());
         }
     }
 }
