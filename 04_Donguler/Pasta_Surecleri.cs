@@ -93,10 +93,13 @@ namespace _04_Donguler
                 button1.Text = "AFİYET OLSUN!";
                 MessageBox.Show("Pasta Hazır");              
             }
+        }
 
-
-
-
+        private void button2_Click(object sender, EventArgs e)
+        {
+            timer1.Stop();
+            progressBar1.Value = 0;
+            this.Hide();
         }
     }
 }
